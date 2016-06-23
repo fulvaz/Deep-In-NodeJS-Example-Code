@@ -1,0 +1,16 @@
+{
+  "name": "deep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel chp4/*.js -d build -w -s"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mongodb": "^2.1.18",
+    "source-map-support": "^0.4.0"
+  }
+}
