@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "iconv-lite": "^0.4.13",
     "mongodb": "^2.1.18",
     "source-map-support": "^0.4.0"
   }
